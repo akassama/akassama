@@ -12,6 +12,7 @@ A list of open source projects I created, maintain or actively contribute to. [!
 
 Project | Role | Description
 --- | --- | ---
+[dotnet-mailjet-emailer](https://github.com/akassama/dotnet-mailjet-emailer) | author | A simple example of a sending email project using ASP.NET Core and MailJet.
 [lais-bs-image-upload](https://github.com/akassama/lais-bs-image-upload) | author | A Bootstrap/jQuery plugin that enables you to preview image uploads.
 [GexpoCMS](https://github.com/akassama/gexpo-cms) | author | An Open source ASP.NET Core 3.1 CMS based on [bootstrapmade](https://bootstrapmade.com/bootstrap-5-templates/) themes.
 [jquery-datables-crud](https://github.com/akassama/jquery-datables-crud) | author | A simple CRUD implementation using JQuery Datables in with ASP.NET Core 3.1 including export functionalities.
