@@ -8,24 +8,13 @@ A list of open source projects I created, maintain or actively contribute to.
 Project | Role | Description
 --- | --- | ---
 [igniter-cms](https://github.com/akassama/igniter-cms) | author | A comprehensive Content Management System (CMS) built with CodeIgniter 4, featuring both front-end and back-end functionalities, including a RESTful API for data retrieval.
+[ak-tools](https://aktools.net) | author | A collection of powerful online tools designed to simplify your daily tasks..
 [file-input-validator](https://github.com/akassama/FileInputValidator) | author | A simple JavaScript library for validating file upload inputs.
 [dotnet-mailjet-emailer](https://github.com/akassama/dotnet-mailjet-emailer) | author | A simple example of a sending email project using ASP.NET Core and MailJet.
 [lais-bs-image-upload](https://github.com/akassama/lais-bs-image-upload) | author | A Bootstrap/jQuery plugin that enables you to preview image uploads.
 [GexpoCMS](https://github.com/akassama/gexpo-cms) | author | An Open source ASP.NET Core 3.1 CMS based on [bootstrapmade](https://bootstrapmade.com/bootstrap-5-templates/) themes.
-[jquery-datables-crud](https://github.com/akassama/jquery-datables-crud) | author | A simple CRUD implementation using JQuery Datables in with ASP.NET Core 3.1 including export functionalities.
-[password-generator](https://github.com/akassama/password-generator) | author | A simple web tool to generate secure passwords.
-[product-price-calculator](https://github.com/akassama/product-price-calculator) | author | A simple product selling price calculator designed 
 [jquery-character-counter](https://github.com/akassama/jquery-character-counter) | author | A simple and useful jquery plugin that allows you to create a Text Area Character Count Effect with limited warning.
-[sql-query-generator](https://github.com/akassama/sql-query-generator) | author | Easily generate sql queries online. Query Builder for SQL Server and MySQL.
-[bootstrap-search-autocomplete](https://github.com/akassama/bootstrap-search-autocomplete) | author | A simple JavaScript implementation of search input with auto completion suggestions list.
-[case-converter](https://github.com/akassama/case-converter) | author | Web tool to convert cases, convert upper case to lower case, lower case to upper, crossout text, underline text and more.
-[bootstrap-shopping-cart](https://github.com/akassama/bootstrap-shopping-cart) | author | Bootstrap 4 JQuery Shopping Cart - An easy to use shopping cart for your web application built using JQuery & Twitter Bootstrap Framework.
 [simple-bootstrap-4-audio-player](https://github.com/akassama/simple-bootstrap-4-audio-player) | author | Audio player using HTML5 audio and bootstrap 4 cards with some added custom css.
-[keywords-extractor](https://github.com/akassama/keywords-extractor) | author | A keyword extraction tool to automatically extract keywords from your text data.
-[guid-generator](https://github.com/akassama/guid-generator) | author | Simple tool to easily generate GUID strings.
-[AnnuityLoanCalculator](https://github.com/akassama/AnnuityLoanCalculator) | author | Annuity Loan Calculator Web App developed with ASP.NET MVC 5.
-[text-notepad](https://github.com/akassama/text-notepad) | author | Simple online notepad to enter your text and notes. Your can save the notes in your browser and access it later. Uses jquery sessions.
-
 ## 🛠️ Technologies & Skills
 
 - **Languages**: C#, PHP, JavaScript, Java
