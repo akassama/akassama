@@ -37,7 +37,7 @@ Project | Role | Description
 
 ## 📖 Blog & Website
 
-You can visit my website and blog at [akassama.com](https://akassama.com)/[blog.akassama.com](https://blog.akassama.com) for more insights, articles, and resources.
+You can visit my website and blog at [akassama.com](https://akassama.dev) for more insights, articles, and resources.
 
 ## 📫 Contact
 
